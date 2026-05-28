@@ -1,1 +1,1 @@
-FROM bytesandpixels/evolution-api:v2.1.1
+FROM atendai/evolution-api:v1.8.7

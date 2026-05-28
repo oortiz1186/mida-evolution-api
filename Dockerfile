@@ -1,1 +1,1 @@
-FROM atendare/evolution-api:latest
+FROM bytesandpixels/evolution-api:v2.1.1
